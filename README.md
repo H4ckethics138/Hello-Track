@@ -1,6 +1,12 @@
 # HelloTrack 🐶
 Hellotracks is information gathering and capture exact GPS coordinates
 
+### Video Demo
+[![HelloTracks Demo](https://github.com/H4ckethics138/Hello-Track/blob/main/Screenshot%20From%202025-02-20%2000-10-25.png )](https://www.youtube.com/@Hackethics.138)
+
+### For More Video subcribe <a href="https://github.com/H4ckethics138/Hello-Track/blob/main/Screenshot%20From%202025-02-20%2000-10-25.png">hackethics.138 YouTube Channel</a>
+<p> HelloTrack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
+
 # What is HelloTracks ?
 <p> HelloTracks is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
 <ul>
@@ -51,9 +57,4 @@ bash main1.sh
 ## Change log:
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
-### Video Demo
-[![HelloTracks Demo]( )](https://www.youtube.com/@Hackethics.138)
 
-### For More Video subcribe <a href="               ">hackethics.138 YouTube Channel</a>
-<p> HelloTrack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-credit - Chatbot template : Masud Rana
