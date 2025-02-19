@@ -1,5 +1,3 @@
-# Hello-Track
-
 # HelloTrack 🐶
 Hellotracks is information gathering and capture exact GPS coordinates
 
