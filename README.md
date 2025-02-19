@@ -44,9 +44,9 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/hound
-cd hound
-bash hound.sh
+https://github.com/H4ckethics138/Hello-Track.git
+cd Hello-Track
+bash main1.sh
 ```
 ## Change log:
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
