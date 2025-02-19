@@ -1,0 +1,186 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0 
+Platform: Linux x86_64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: undefined
+CPU Cores: 2
+Screen Width: 1366
+Screen Height: 768
+Local Time: 12:23:45 pm
+RefUrl: 
+OS CPU: Linux x86_64
+-------------------------
+
+Target IP Detail
+----------------
+IP: 14.99.240.26
+---------------
+
+Locatin Unavailable.
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-CA
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 8
+Screen Width: 393
+Screen Height: 876
+Local Time: 1:14:49 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 14.99.240.26
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-CA
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 8
+Screen Width: 393
+Screen Height: 876
+Local Time: 1:14:58 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 14.99.240.26
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-CA
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 8
+Screen Width: 393
+Screen Height: 876
+Local Time: 1:15:01 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 14.99.240.26
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-CA
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 8
+Screen Width: 393
+Screen Height: 876
+Local Time: 1:15:12 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 14.99.240.26
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 27.9566672
+Longitude: 76.3953794
+Map Location:  https://www.google.com/maps/place/27.9566672,76.3953794
+Google Earth:  https://earth.google.com/web/search/27.9566672,76.3953794
+------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-CA
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 8
+Screen Width: 393
+Screen Height: 876
+Local Time: 1:18:36 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 14.99.240.26
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 27.9566672
+Longitude: 76.3953794
+Map Location:  https://www.google.com/maps/place/27.9566672,76.3953794
+Google Earth:  https://earth.google.com/web/search/27.9566672,76.3953794
+------------------
+
+Target IP Detail
+----------------
+IP: 14.99.240.26
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-CA
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 8
+Screen Width: 393
+Screen Height: 876
+Local Time: 2:45:49 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
